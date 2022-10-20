@@ -2,5 +2,5 @@ anomalWord = "faiza tasiba aleya abrar taskin ira taifa farjad hasnath zim shiha
 spliteword = anomalWord.split()
 converTuple = tuple(sorted(spliteword))
 lengthTuple = len(converTuple)
-print(converTuple)
-print(lengthTuple)
+print(converTuple) # This print Tuple list
+print(lengthTuple) # this print length of tuple 
